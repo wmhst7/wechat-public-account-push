@@ -37,7 +37,7 @@ export const config = {
     }, 
     {
       name: "ysw", 
-//       id: "o8Ujm6C34LoNeL5JdhzJetqVQbjE",
+      id: "o8Ujm6C34LoNeL5JdhzJetqVQbjE",
       useTemplateId: "uEAgHaJsh0UOjtEflq6u-9kVjCLIkRez4-y8DXKAqRU",
       openUrl: "https://sojo.im/slscq/"
     }, 
