@@ -4,10 +4,11 @@ export const config = {
    */
 
   // 公众号APP_ID
-  APP_ID: "",
+  APP_ID: "wxa5429d6e8dffbd46
+",
 
   // 公众号APP_SECRET
-  APP_SECRET: "",
+  APP_SECRET: "b0b9c7cd7d11660c3604120e65ba7d19",
 
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
@@ -29,30 +30,30 @@ export const config = {
       // 想要发送的人的名字
       name: "老婆0",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ohxO123O6Vsk2Yv0Kuf-ywIZ3VRMpuXhk",
+      id: "o8Ujm6G3KGPN0cC5Xo1gFHCSMIxE",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "zjVglIuC2Xo4CsraXWEio1iP7sZJ37IQEES9lD3sgc4yOU",
+      useTemplateId: "33R_n1_Ca2hSqPLxzz0_BkS1SJ2O6ugApW28HjBABxo",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "https://wangxinleo.cn"
+      openUrl: "https://leetcode.cn/progress/"
     }, 
-    {
-      name: "老婆1", 
-      id: "ohxOO6VskYv20Kuf-ywIZVR3MpuXhk",
-      useTemplateId: "Wue80GrtY1nAia24tam-FDxZF9WNx39pwcBc0LMpANnu8",
-      openUrl: "https://baidu.com"
-    }, 
-    {
-      name: "老婆2",
-      id: "ohxOO6VskYv30Kuf-ywIZV3RMpuXhk",
-      useTemplateId: "zjVglIuCXo4CsraXW3Eio1iP7sZJ7IQEES9lDsgc4yOU",
-      openUrl: "https://weibo.com"
-    }, 
-    {
-      name: "老婆3", 
-      id: "ohxOO63VskYv0Kuf-ywIZV3RMpuXhk", 
-      useTemplateId: "Wue80GrtY1nA3ia4tam-FDxZF9WNx9pw3cBc0LMpANnu8",
-      openUrl: "https://wangxinleo.cn"
-    }, 
+//     {
+//       name: "老婆1", 
+//       id: "ohxOO6VskYv20Kuf-ywIZVR3MpuXhk",
+//       useTemplateId: "Wue80GrtY1nAia24tam-FDxZF9WNx39pwcBc0LMpANnu8",
+//       openUrl: "https://baidu.com"
+//     }, 
+//     {
+//       name: "老婆2",
+//       id: "ohxOO6VskYv30Kuf-ywIZV3RMpuXhk",
+//       useTemplateId: "zjVglIuCXo4CsraXW3Eio1iP7sZJ7IQEES9lDsgc4yOU",
+//       openUrl: "https://weibo.com"
+//     }, 
+//     {
+//       name: "老婆3", 
+//       id: "ohxOO63VskYv0Kuf-ywIZV3RMpuXhk", 
+//       useTemplateId: "Wue80GrtY1nA3ia4tam-FDxZF9WNx9pw3cBc0LMpANnu8",
+//       openUrl: "https://wangxinleo.cn"
+//     }, 
   ],
 
   /**
@@ -79,9 +80,9 @@ export const config = {
   /** 天气相关 */
 
   // 所在省份
-  PROVINCE: "广东",
+  PROVINCE: "北京市",
   // 所在城市
-  CITY: "惠州",
+  CITY: "海淀区",
 
   /** 重要节日相关 */
 
@@ -92,10 +93,10 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "老婆", "year": "1996", "date": "09-02"},
-    {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
-    {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
-    {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
+    {"type": "生日", "name": "老婆", "year": "2001", "date": "11-25"},
+    {"type": "节日", "name": "在一起纪念日", "year": "2021", "date": "12-05"},
+    {"type": "生日", "name": "🍉", "year": "2000", "date": "03-11"},
+//     {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
   ],
 
   /**
