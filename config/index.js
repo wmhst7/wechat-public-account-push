@@ -27,7 +27,7 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "老婆0",
+      name: "wmh",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "o8Ujm6G3KGPN0cC5Xo1gFHCSMIxE",
       // 你想对他发送的模板消息的模板ID
@@ -68,7 +68,7 @@ export const config = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ohxOO36VskY3v0Kuf-ywIZVR3MpuXhk",
+      id: "o8Ujm6G3KGPN0cC5Xo1gFHCSMIxE",
     }, 
   ],
     
@@ -79,9 +79,9 @@ export const config = {
   /** 天气相关 */
 
   // 所在省份
-  PROVINCE: "北京市",
+  PROVINCE: "北京",
   // 所在城市
-  CITY: "海淀区",
+  CITY: "北京",
 
   /** 重要节日相关 */
 
