@@ -35,12 +35,12 @@ export const config = {
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://sojo.im/slscq/"
     }, 
-//     {
-//       name: "ysw", 
+    {
+      name: "ysw", 
 //       id: "o8Ujm6C34LoNeL5JdhzJetqVQbjE",
-//       useTemplateId: "33R_n1_Ca2hSqPLxzz0_BkS1SJ2O6ugApW28HjBABxo",
-//       openUrl: "https://sojo.im/slscq/"
-//     }, 
+      useTemplateId: "uEAgHaJsh0UOjtEflq6u-9kVjCLIkRez4-y8DXKAqRU",
+      openUrl: "https://sojo.im/slscq/"
+    }, 
   ],
 
   /**
@@ -80,9 +80,9 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "宝宝", "year": "2001", "date": "11-25"},
+    {"type": "生日", "name": "爱睡觉的蘑菇宝宝一枚呀～[玫瑰]", "year": "2001", "date": "11-25"},
 //     {"type": "节日", "name": "在一起纪念日", "year": "2021", "date": "12-05"},
-    {"type": "生日", "name": "🍉", "year": "2000", "date": "03-11"},
+    {"type": "生日", "name": "爱学习的大🍉", "year": "2000", "date": "03-11"},
 //     {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
   ],
 
